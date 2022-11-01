@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    /* color: white; */
+    font-weight: 200;
+}
+
+nav{
+    width: 100%;
+    height: 80px;
+}
+
+.logo a{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100% - 173px);
+    height: 100%;
+    margin: auto;
+}
+
+ul{
+    display: flex;
+}
+ul li {
+    list-style: none;
+    margin: 0 20px;
+    font-size: 16px;
+}
+
+ul li a {
+    color: white;
+}
+
+
+
+main{
+    width: 100vw;
+    height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

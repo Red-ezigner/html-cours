@@ -1,0 +1,30 @@
+body{
+    background-color: #F78764;
+
+}
+
+nav{
+    background-color: white;
+}
+
+.logo a {
+    color: #3D348B;
+}
+
+.logo-D{
+    color: #F78764;
+}
+
+.active{
+    font-weight: 700;
+    color: #F78764;
+}
+
+ul li a {
+    color: black;
+    font-weight: 200;
+}
+
+main{
+    color: white;
+}

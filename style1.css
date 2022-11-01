@@ -1,0 +1,15 @@
+nav{
+    background-color: #F78764;
+}
+
+.logo a{
+    color: white;
+}
+.logo-D{
+    color: #3d348b;
+}
+
+.active{
+    font-weight: 700;
+    color: #3d348b;
+}
